@@ -1,2 +1,2 @@
 # claude-ai-certifications
-A repository showcasing my Anthropic Claude credentials, prompt engineering projects, and AI automation certificates.
+A repository showcasing my Anthropic Claude credentials, and AI automation certificates.

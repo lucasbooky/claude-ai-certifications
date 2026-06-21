@@ -1,6 +1,6 @@
 # Anthropic Claude Certification Portfolio
 
-This repository serves as a centralized verification hub for my official credentials, and AI automation certifications utilizing the Anthropic Claude model family.
+This repository serves as a centralized verification hub for my official credentials, and AI automation certifications utilizing the Anthropic Claude model family. I currently have 2 certifications listed below.
 
 ## 🏆 Certified Credentials
 

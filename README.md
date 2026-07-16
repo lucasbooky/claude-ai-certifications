@@ -4,9 +4,9 @@ This repository serves as a centralized verification hub for my official credent
 
 ## 🏆 Certified Credentials
 
-| **Claude 101** | [Verify Credential] (https://verify.skilljar.com/c/i3d386ww8rff) | [View Certificate] (https://github.com/user-attachments/files/29185393/certificate-claude-101.pdf) |
+| **Claude 101** | [Verify Credential] (https://verify.skilljar.com/c/i3d386ww8rff) | [View Certificate] (https://github.com/lucasbooky/claude-ai-certifications/blob/main/certificate-claude-101.pdf) |
 
-| **Claude Code 101** | [Verify Credential] (https://verify.skilljar.com/c/zfcfnf5dcrwo) | [View Certificate] (https://github.com/user-attachments/files/29185404/certificate-claude-code-101.pdf) |
+| **Claude Code 101** | [Verify Credential] (https://verify.skilljar.com/c/zfcfnf5dcrwo) | [View Certificate] (https://github.com/lucasbooky/claude-ai-certifications/blob/main/certificate-claude-code-101.pdf) |
 
 | **Claude Platform 101** | [Verify Credential] (https://verify.skilljar.com/c/app7buivr9fb) | [View Certificate] (https://github.com/lucasbooky/claude-ai-certifications/blob/main/certificate-claude-platform-101.pdf) |
 
